@@ -78,7 +78,6 @@ var reservedKeywords = map[string]struct{}{
 	"on":                {},
 	"only":              {},
 	"or":                {},
-	"order":             {},
 	"overlaps":          {},
 	"placing":           {},
 	"primary":           {},
